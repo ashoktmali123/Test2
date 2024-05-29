@@ -1,1 +1,2 @@
 This is just for testing the pull if works or not in gitHub.
+This is for check commit1 and commit2.
